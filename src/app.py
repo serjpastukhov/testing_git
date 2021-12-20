@@ -59,3 +59,4 @@ if __name__ == '__main__':
     print(fibonacci_for_loop(35))
     print(fibonacci_recursive(35))
     print('Hello, World!')
+    print('I have registred here!')
